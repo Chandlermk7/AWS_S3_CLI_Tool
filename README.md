@@ -4,6 +4,7 @@ A simple Python command-line tool that uploads local files to an AWS S3 bucket u
 
 ## Author and Programmer
 Chandler Thomas
+
 July 2, 2025
 
 ## Features
