@@ -2,7 +2,7 @@
 
 A simple Python command-line tool that uploads local files to an AWS S3 bucket using the `boto3` SDK.
 
-## Auther and Programmer
+## Author and Programmer
 Chandler Thomas
 July 2, 2025
 
