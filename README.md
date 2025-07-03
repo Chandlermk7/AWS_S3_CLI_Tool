@@ -36,7 +36,9 @@ July 2, 2025
 ## Usage
 
 1. Run the script with:
-   python s3_upload.py <file_path> <bucket_name>  \\Example: python s3_upload.py ./myfile.txt my-s3-bucket
+   python s3_upload.py <file_path> <bucket_name>
+
+   Example: python s3_upload.py ./myfile.txt my-s3-bucket
 
 ## Assumptions
 
